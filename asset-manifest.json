@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weather-app-dark-mode/static/css/main.073c9b0a.css",
+    "main.js": "/Weather-app-dark-mode/static/js/main.9e9cebe1.js",
+    "static/js/787.e28efb7e.chunk.js": "/Weather-app-dark-mode/static/js/787.e28efb7e.chunk.js",
+    "index.html": "/Weather-app-dark-mode/index.html",
+    "main.073c9b0a.css.map": "/Weather-app-dark-mode/static/css/main.073c9b0a.css.map",
+    "main.9e9cebe1.js.map": "/Weather-app-dark-mode/static/js/main.9e9cebe1.js.map",
+    "787.e28efb7e.chunk.js.map": "/Weather-app-dark-mode/static/js/787.e28efb7e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9e9cebe1.js"
+  ]
+}
